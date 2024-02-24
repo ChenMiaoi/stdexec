@@ -7,3 +7,6 @@ compile_commands.json
 /*.cpp
 /*.patch
 /*.diff
+.idea/
+.kdev4/
+stdexec.kdev4
